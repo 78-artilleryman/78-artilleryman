@@ -21,10 +21,10 @@
   </div>
   <br>
   <div>
-   <a href="https://github.com/78-artilleryman"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=78-artilleryman&layout=compact&theme=nord&hide_border=true" /></a> 
   </div>
 </div>
 
 <br>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=78-artilleryman&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" />
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yunbh_0401)](https://velog.io/@yunbh_0401/posts)
